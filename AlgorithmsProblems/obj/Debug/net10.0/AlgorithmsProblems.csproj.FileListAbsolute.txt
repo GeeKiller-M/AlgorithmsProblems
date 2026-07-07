@@ -1,0 +1,12 @@
+C:\Users\jhosue.tipe\Documents\Csh\AlgorithmsProblems\AlgorithmsProblems\bin\Debug\net10.0\AlgorithmsProblems.deps.json
+C:\Users\jhosue.tipe\Documents\Csh\AlgorithmsProblems\AlgorithmsProblems\bin\Debug\net10.0\AlgorithmsProblems.dll
+C:\Users\jhosue.tipe\Documents\Csh\AlgorithmsProblems\AlgorithmsProblems\bin\Debug\net10.0\AlgorithmsProblems.pdb
+C:\Users\jhosue.tipe\Documents\Csh\AlgorithmsProblems\AlgorithmsProblems\obj\Debug\net10.0\AlgorithmsProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhosue.tipe\Documents\Csh\AlgorithmsProblems\AlgorithmsProblems\obj\Debug\net10.0\AlgorithmsProblems.AssemblyInfoInputs.cache
+C:\Users\jhosue.tipe\Documents\Csh\AlgorithmsProblems\AlgorithmsProblems\obj\Debug\net10.0\AlgorithmsProblems.AssemblyInfo.cs
+C:\Users\jhosue.tipe\Documents\Csh\AlgorithmsProblems\AlgorithmsProblems\obj\Debug\net10.0\AlgorithmsProblems.csproj.CoreCompileInputs.cache
+C:\Users\jhosue.tipe\Documents\Csh\AlgorithmsProblems\AlgorithmsProblems\obj\Debug\net10.0\AlgorithmsProblems.sourcelink.json
+C:\Users\jhosue.tipe\Documents\Csh\AlgorithmsProblems\AlgorithmsProblems\obj\Debug\net10.0\AlgorithmsProblems.dll
+C:\Users\jhosue.tipe\Documents\Csh\AlgorithmsProblems\AlgorithmsProblems\obj\Debug\net10.0\refint\AlgorithmsProblems.dll
+C:\Users\jhosue.tipe\Documents\Csh\AlgorithmsProblems\AlgorithmsProblems\obj\Debug\net10.0\AlgorithmsProblems.pdb
+C:\Users\jhosue.tipe\Documents\Csh\AlgorithmsProblems\AlgorithmsProblems\obj\Debug\net10.0\ref\AlgorithmsProblems.dll
